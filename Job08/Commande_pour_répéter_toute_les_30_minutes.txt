@@ -1,0 +1,2 @@
+crontab -u root -e
+*/30 * * * * root ./my_logs.sh
